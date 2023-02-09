@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanju Shah</h1>
 <h3 align="center">An Android developer.</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@glienicker](https://medium.com/@glienicker)
-
-- 📫 How to reach me **sanjushahgupta@gmail.com**
+- A part from coding, I also maintain a blog. You can find my articles on [https://medium.com/@glienicker](https://medium.com/@glienicker).
+- 📫 How to reach me: **sanjushahgupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
