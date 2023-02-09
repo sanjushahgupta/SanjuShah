@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanju Shah</h1>
-<h3 align="center">An enthusiast and dedicated Android developer from Nepal.</h3>
+<h3 align="center">An Android developer.</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@glienicker](https://medium.com/@glienicker)
 
