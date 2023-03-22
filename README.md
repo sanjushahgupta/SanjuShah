@@ -1,8 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sanju Shah</h1>
 <h3 align="center">An Android developer.</h3>
 
-- Apart from coding, I also maintain a blog. You can find my articles on [https://medium.com/@glienicker](https://medium.com/@glienicker).
-- 📫 How to reach me: **sanjushahgupta@gmail.com**
+# About Me
+I am a junior Android developer with a degree in Computer Science. I am passionate about creating mobile apps that make people's lives easier. In my free time, I enjoy hiking and playing video games.
+
+# Projects
+## ChatAI
+Chat with an AI using your OpenAI API key with this app. Enter your API key and start chatting with the AI instantly. The app will store your API key locally on your device, and there's no need for any login credentials. The best part is that the app is completely free and comes with no advertisements or upgrade options. It's an excellent platform for people who want to experience talking with an AI.
+Disclaimer: This app is not affiliated with OpenAI in any way.
+
+## Hiccups 
+An app for sending hiccups to other registered users. Built using Kotlin, Firestore, Koin, Coroutine, and Navigation.
+
+## Notezz
+A note-taking Android application built in Kotlin using Jetpack to register users, update user accounts, and add/update/list/delete notes.
+
+## GrandAutoCodes 
+An app that has cheat codes for GTA 5 on different platforms such as Xbox, Playstation, Pc, and Phone. Built using kotlin, jetpack.
+
+# Contact Me
+Please feel free to contact me at sanjushahgupta@gmail.com. I'm always open to new opportunities and collaborations.
+
+Apart from coding, I also maintain a blog. You can find my articles on [https://medium.com/@glienicker](https://medium.com/@glienicker).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
