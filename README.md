@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanju Shah</h1>
-<h3 align="center">An Software developer.</h3>
+<h3 align="center">Software developer.</h3>
 
 # About Me
 I am a software developer with a degree in Computer Science. I am passionate about creating mobile apps and websites that make people's lives easier. In my free time, I enjoy hiking and playing video games.
