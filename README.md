@@ -4,7 +4,7 @@
 
 
 # About Me 
-I am Sanju Shah, living in Germany with a computer science degree. As a full-stack developer, I've built many APIs and frontend applications using JavaScript, Express, and React, and also worked with cloud services AWS. Previously, I freelanced as an Android developer, where I gained valuable experience working with Java and Kotlin. <a href="sanjushah.com">Visit my Portofolio</a>
+I am Sanju Shah, living in Germany with a computer science degree. As a full-stack developer, I've built many APIs and frontend applications using JavaScript, Express, and React, and also worked with cloud services AWS. Previously, I freelanced as an Android developer, where I gained valuable experience working with Java and Kotlin. <a href="https://sanjushah.com/">Visit my Portofolio</a>
 
 # Contact Me 
 Please feel free to contact me at sanjushahgupta@gmail.com. I'm always open to new opportunities and collaborations.
